@@ -1,8 +1,8 @@
 <h1 align="center">Practical Work on Programação em Ambiente Web (Programming in Web Environment)</h1>
 
 <p>
-  <img src="http://img.shields.io/static/v1?label=School%20year&message=2021/2022&color=GREEN"/>
-  <img src="http://img.shields.io/static/v1?label=Discipline&message=PAW&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?label=School%20year&message=2021/2022&color=informational"/>
+  <img src="http://img.shields.io/static/v1?label=Discipline&message=PAW&color=informational"/>
 </p>
 
 ---
@@ -10,10 +10,10 @@
 <h2>Languages</h2>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/prplx/svg-logos/blob/master/svg/mongodb.svg" alt="mongo" width="100" height="100"> 
-    <img src="https://github.com/prplx/svg-logos/blob/master/svg/express.svg" alt="mongo" width="100" height="100"> 
-    <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" alt="mongo" width="100" height="100"> 
-    <img src="https://github.com/prplx/svg-logos/blob/master/svg/nodejs.svg" alt="mongo" width="100" height="100"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="https://github.com/prplx/svg-logos/blob/master/svg/express.svg" alt="mongo" width="40" height="40"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -22,8 +22,13 @@
 <h2>How to run</h2>
 
 ```
-javac -encoding utf8 Main.java
-java Main
+cd BackOffice
+npm install
+npm start
+
+cd FrontOffice
+npm install
+ng serve --open
 ```
 
 ---
