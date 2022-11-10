@@ -3,6 +3,9 @@
 <p>
   <img src="http://img.shields.io/static/v1?label=School%20year&message=2021/2022&color=informational"/>
   <img src="http://img.shields.io/static/v1?label=Discipline&message=PAW&color=informational"/>
+  <a href="https://github.com/nunofbcastro-ESTG-IPP/SO/blob/main/Doc/RelatorioGrupo08.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Report-grey"/>
+  </a>
 </p>
 
 ---
