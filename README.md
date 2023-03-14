@@ -1,10 +1,11 @@
 <h1 align="center">Practical Work on Programação em Ambiente Web (Programming in Web Environment)</h1>
 
 <p>
-  <img src="http://img.shields.io/static/v1?label=School%20year&message=2021/2022&color=informational"/>
-  <img src="http://img.shields.io/static/v1?label=Discipline&message=PAW&color=informational"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2021/2022&color=informational"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=PAW&color=informational"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=16&color=sucess"/>
   <a href="https://github.com/oliveira1712/ModernLibrary/blob/main/Docs/Report.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Report-grey"/>
+    <img src="https://img.shields.io/badge/-Report-grey?style=for-the-badge"/>
   </a>
 </p>
 
